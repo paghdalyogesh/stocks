@@ -1,5 +1,4 @@
-# react
-react demo
+# react : Greek calculator
 
 //https://www.nseindia.com/get-quotes/derivatives?symbol=NIFTY&identifier=OPTIDXNIFTY11-06-2020CE10200.00
 //https://www.nseindia.com/api/option-chain-indices?symbol=NIFTY
